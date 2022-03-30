@@ -24,7 +24,7 @@ body{
 
 /* ESTILO NAVBAR */
 .navbar{
-    float: left;
+    float: right;
     line-height: 100px;
 }
 
@@ -39,9 +39,16 @@ body{
     font-size: 15px;
     margin-right: 5px;
 }
+.navbarSupportedContent{
+    float: right;
+}
 .navbar .collapse a:hover{
     border-bottom: 2px solid #c7c7c7;
     padding-bottom: 5px;
+}
+.brand img{
+    float: left;
+    width: 120px; ;
 }
 /* FIN DE ESTILO NAVBAR */
 
