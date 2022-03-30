@@ -1,5 +1,5 @@
 # ActividadBootStrap 
-intergrantes jordan bolbaran 
-             gustavo cartes 
-             madeline escobar
-             angel montecinos
+intergrantes Jordan Bolbaran 
+             Gustavo Cartes 
+             Madeline Escobar
+             Angel Montecinos
