@@ -45,6 +45,12 @@ body{
     background-size: 100vw 100vh;
     background-repeat: no-repeat;
 }
+.texto_nosotros{
+    height: 300px;
+    width: 300px;
+    z-index: 1;
+    color: #fff;
+}
 /* FIN DE ESTILO NOSOTROS */
 
 /* ESTILO PARA Servicios */
